@@ -37,9 +37,9 @@ while True:
 			6. X-XSS Header Checker
 
 			Enter the Desired Options : '''))
+	      break
 	except:
 		print("Enter the Desired Options:")
-	break
 if int(options) == 1 :
 		httpheader = input("Enter the Target:")
 		h = requests.get("http://api.hackertarget.com/httpheaders/?q="+httpheader)
