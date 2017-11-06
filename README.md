@@ -1,5 +1,7 @@
 # all-in-one-Hacker-tool
 
+# Usage : python3 aiohackertool.py
+
 # Author : Abartan Dhakal
 # Facebook : /abartandhakal
 # Twitter : /Imhaxormad
